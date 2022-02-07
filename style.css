@@ -1,0 +1,19 @@
+body{
+background-color:#EAF6F6;
+}
+hr{
+background-color: white;
+border-style: none;
+border-top: dotted;
+border-color: grey;
+width: 30%;
+}
+h1{
+color: rgb(17, 146, 27);
+}
+h2{
+color: burlywood;
+}
+h3{
+color: aquamarine;
+}
